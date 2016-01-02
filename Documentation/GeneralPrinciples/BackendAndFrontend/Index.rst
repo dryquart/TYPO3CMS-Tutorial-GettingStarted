@@ -39,6 +39,6 @@ backend overview:
    :alt: TYPO3 backend Overview
 
 On the left you see the main modules of TYPO3 CMS, also called the main menu of the
-backend. **About Modules** is select in the main module **HELP**.
+backend. **About Modules** is selected in the main module **HELP**.
 
 To perform the next step click on **WEB** > **Page** now. This will redirect you to the Page module.
