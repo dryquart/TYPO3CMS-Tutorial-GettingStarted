@@ -60,7 +60,7 @@ you hover over the top bar of a content element three things will happen:
 After the mouse cursor's shape changed to a crosshair press the left mouse button
 and move the content element up and down (do not relaese the mouse button). Doing
 so, you will recognise light green horizontal bars (1) showing up between the other
-content elements. This bars mark all possible positions where you can drop the content
+content elements. These bars mark all possible positions where you can drop the content
 element your are currently dragging.
 
 .. figure:: ../../Images/T3CMS62-BE-MoveContentElements-2.png
