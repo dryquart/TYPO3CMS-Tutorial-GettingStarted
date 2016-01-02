@@ -45,3 +45,6 @@ of the element type saves the element.
    If you want fast access to your page content elements you can change
    the Page module view to "QuickEdit" instead of "Columns" - then the
    first content element on a page is shown right away:
+.. figure::  ../../Images/manual_html_m529c065.png
+   :alt: Quick Edit mode 
+   
