@@ -10,10 +10,6 @@
 
 New page
 ^^^^^^^^
-
-.. figure:: ../../Images/manual_html_m529c065.png
-   :alt: Edit a page in QuickEdit mode.
-
 We already saw one way to create a new page when we created the
 "External URL" page earlier. However, in TYPO3 there are multiple ways
 to get things done. Here is another way to create a page:
