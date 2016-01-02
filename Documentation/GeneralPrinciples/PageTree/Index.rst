@@ -22,7 +22,7 @@ Look at your page tree in the backend now:
    :alt: Current page tree
 
 Simultaneously have a look at the navigation in the frontend. Click on
-**About** in the main menu on top and then select **TYPO3** form the submenu:
+**About** in the main menu on top and then select **TYPO3** from the submenu:
 
 .. figure:: ../../Images/T3CMS62-FE-AboutPage.png
    :alt: Frontend of the Introduction Package
@@ -31,8 +31,8 @@ As you see the main menu on top of your website corresponds to the first
 level menu pages in the page tree. Furthermore the submenu of the **About** page
 in the frontent corresponds to the entries beneath **About** in the page tree.
 
-For all modules below the **WEB** category the page tree will be displayed.
-This means all these modules are acting on a per-page base.
+For all modules below the **WEB** category in the modules menu, the page tree will be displayed.
+This means all these modules are acting on a per-page basis.
 
 A click on the page title opens that page in the content area on
 the right. Hovering over the icon of a page will display its internal
@@ -79,7 +79,7 @@ page-related functions the fast way. Here is what these options do:
   - Mount as treeroot: Temporarily makes the selected page being the
     treeroot
 
-  - Expand Branch: Same as clicking on a "closed" the arrow
+  - Expand Branch: Same as clicking on a "closed" arrow
 
   - Collapse Branch: Same as clicking on an "open" arrow
 
@@ -106,7 +106,7 @@ hover over the related page's icon and you will recognize id 1 again:
    :alt: Identifying the page ID of the menu entry within the pagetree
 
 (3) might puzzle you - in the page tree and the title bar the page's
-name is "Congratulations", but here in the frontent menu it is suddenly "Get
+name is "Congratulations", but here in the frontend menu it is suddenly "Get
 Started". To find out what happened hover over the icon of the "Home" page
 in the page tree. As you see this page is a :ref:`Shortcut <shortcuts>`
 to page "Congratulations" with id 1.
